@@ -30,7 +30,7 @@ class Program
                 Console.WriteLine("Invalid input. Please enter a number.");
                 continue;
             }
-
+// use switch case to select option
             switch (choice)
             {
                 case 1:
